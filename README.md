@@ -34,7 +34,7 @@ It powers:
 - **loki** — Narrative intelligence for navigating alpha
 
 And soon:
-- **Bifrost** — A sentient wallet with multiple personas (yes, really)
+- **Bifrost** — A sentient wallet with multiple personas (yes, really. well, maybe...)
 
 ---
 
@@ -59,16 +59,16 @@ We ask:
 - To **whom**?
 - And when should it just shut up?
 
-Context-aware AI. Agentic infrastructure. Real-time relevance.
+Context-aware AI. Agentic infrastructure. Rea time relevance.
 
 ---
 
 ## 🔗 Links
 
-- [X: @mtblabs_](https://x.com/mtblabs_)  
-- [Founder: @LiverpoolMTB](https://x.com/LiverpoolMTB)  
-- [Website: mtblabs.io](https://mtblabs.io)  
-- [Discord: Invite Only (for now)]
+🐦 [@mtblabs_](https://x.com/mtblabs_)  
+🧠 [@LiverpoolMTB](https://x.com/LiverpoolMTB)  
+🌐 [mtblabs.io](https://mtblabs.io)  
+💬 Discord: Invite Only (for now)
 
 ---
 
@@ -77,8 +77,8 @@ Context-aware AI. Agentic infrastructure. Real-time relevance.
 No licence, no dice.
 
 This repo is public so you can **read** it, not **rip** it.  
-All rights reserved — unless you ask nicely.
+All rights reserved | unless you ask nicely.
 
 (And even then, probably not.)
 
-> mtb labs: Agent-powered, human-led, slightly unhinged.
+> mtb labs: agent powered, human led, slightly unhinged.
