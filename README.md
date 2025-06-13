@@ -1,4 +1,4 @@
-# 🧪 mtb Labs
+# 🧪 mtb labs
 
 Building weird and useful things at the edge of AI, Web3, and Discord.
 
@@ -72,4 +72,13 @@ Context-aware AI. Agentic infrastructure. Real-time relevance.
 
 ---
 
-> mtb Labs: Agent-powered, human-led, slightly unhinged.
+## ⚖️ Licence
+
+No licence, no dice.
+
+This repo is public so you can **read** it, not **rip** it.  
+All rights reserved — unless you ask nicely.
+
+(And even then, probably not.)
+
+> mtb labs: Agent-powered, human-led, slightly unhinged.
