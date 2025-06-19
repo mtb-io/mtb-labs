@@ -2,71 +2,73 @@
 
 Building weird and useful things at the edge of AI, Web3, and Discord.
 
-We're not chasing hype. We're building infrastructure for the agentic economy, bots that think, dashboards that adapt, and systems that learn. Quietly. Efficiently. Automatically.
+We’re not chasing hype. We’re laying rails for the agentic economy — bots that think, dashboards that adapt, systems that learn. Quietly. Efficiently. Automatically.
 
 ---
 
 ## 🔧 The Stack
 
-> We use what works. Then we make it better.
+> We use what works. Then we push it further.
 
 [![Built with Vue](https://img.shields.io/badge/Built%20with-Vue-42b883?logo=vue.js&logoColor=white)](https://vuejs.org)
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-green?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Discord.js](https://img.shields.io/badge/Discord.js-14.x-5865F2?logo=discord&logoColor=white)](https://discord.js.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Brain-47A248?logo=mongodb&logoColor=white)](https://mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-InMemory%20Magic-DC382D?logo=redis&logoColor=white)](https://redis.io)
+[![Redis](https://img.shields.io/badge/Redis-Context%20Cache-DC382D?logo=redis&logoColor=white)](https://redis.io)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Long%20Term%20Memory-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Arweave](https://img.shields.io/badge/Arweave-Permanent%20Memory-000000?logo=arweave&logoColor=white)](https://arweave.org)
-[![Irys](https://img.shields.io/badge/Irys-Decentralized%20Storage-51ffd6?logo=irys&logoColor=white)](https://irys.xyz)
+[![Irys](https://img.shields.io/badge/Irys-Programmable%20Storage-51ffd6?logo=irys&logoColor=white)](https://irys.xyz)
 [![Docker](https://img.shields.io/badge/Docker-Containerised-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-[![Fly.io](https://img.shields.io/badge/Deployed%20on-Fly.io-1a8cff?logo=fly.io)](https://fly.io)
+[![Fly.io](https://img.shields.io/badge/Fly.io-Edge%20Deployment-1a8cff?logo=fly.io)](https://fly.io)
 
-Yes, it's a vibe. No, we're not sorry.
+Yes, it's a vibe. No, we’re still not sorry.
 
 ---
 
 ## 🧠 Core Project: Odin
 
-The engine behind everything. Odin is an AI layer that routes context, handles memory, adapts personas, and knows when to shut up.
+The engine behind the chaos. Odin is an AI cognition layer that routes context, adapts personas, handles memory, and knows when to keep quiet.
 
-**Now with persistent memory on Arweave.** Because AI that forgets is just expensive autocomplete.
+**Now integrated with Irys + Arweave.** Verifiable memory. Programmable data. Context that lasts.
 
 It powers:
 - **prism** — Discord analytics with actual intelligence
 - **aegis** — Smart moderation with memory
-- **nexus** — Web3-native Discord verification with token gating
-- **freya** — AI-powered routines for families (and neurodiverse kids)
+- **nexus** — Web3-native Discord verification + token gating
+- **freya** — AI-powered habits for families and neurodiverse kids
 - **loki** — Narrative intelligence for navigating alpha
-- **thor** — Security & infrastructure sentinel
+- **thor** — Security & infra sentinel
 - **nina** — Adult accountability companion
 
-And soon:
-- **Bifrost** — A sentient wallet with multiple personas (yes, really. well, maybe...)
+Coming soon:
+- **bifrost** — A sentient wallet with multiple personalities. Slightly unstable. Fully sovereign.
 
 ---
 
-## 📡 What's Live
+## 📡 What’s Live
 
 | Project | Status | Description |
 |--------|--------|-------------|
-| **prism** | Private Beta | Real-time Discord insights with sentiment and predictive analytics |
-| **nexus** | Building | Web3 wallet verification and NFT role assignment |
-| **freya** | Alpha | Routine builder + XP system for kids, gamified with AI |
-| **odin core API** | Live | Multimodal agent layer with persistent memory, model routing, and persona logic |
-| **DexScope** | Building | AI meets DEXTools: live token signals, gas insights, and real-time alerts |
+| **prism** | Private Beta | Real-time Discord analytics with sentiment and predictive signals |
+| **nexus** | Building | Wallet verification + role automation for token-based communities |
+| **freya** | Alpha | Gamified AI assistant for kids’ routines, XP system included |
+| **odin core API** | Live | Multimodal agent layer: memory, routing, persona logic, logging |
+| **DexScope** | Building | AI + DEXTools: token tracking, gas insights, smart alerts |
 
 ---
 
 ## 🧭 Philosophy
 
-We don't just ask _what can this model say?_
+We don’t just ask _what can this model say?_
 
 We ask:
 - What **should** it say?
 - To **whom**?
-- And when should it just shut up?
-- **What should it remember?**
+- When should it shut up?
+- And what should it **never forget**?
 
-Context-aware AI. Agentic infrastructure. Real-time relevance. **Persistent memory.**
+Agentic systems. Real-time context. Behaviour-aware memory.  
+The boring bits that make AI actually useful.
 
 ---
 
@@ -84,8 +86,6 @@ Context-aware AI. Agentic infrastructure. Real-time relevance. **Persistent memo
 No licence, no dice.
 
 This repo is public so you can **read** it, not **rip** it.  
-All rights reserved | unless you ask nicely.
+All rights reserved — unless you ask very nicely (and catch me in a good mood).
 
-(And even then, probably not.)
-
-> mtb labs: agent powered, human led, slightly unhinged.
+> mtb labs: agent-powered, human-led, borderline feral.
